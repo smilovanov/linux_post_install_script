@@ -1,0 +1,2 @@
+# linux_post_install_script
+post_install_script_for_vivt_project
